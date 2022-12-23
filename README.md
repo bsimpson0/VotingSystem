@@ -10,3 +10,4 @@ You can set the name of your election candidates in main.
 - Check Your Vote
 - Check Total Votes
 
+To Compile: gcc-12 main.c vs.c
